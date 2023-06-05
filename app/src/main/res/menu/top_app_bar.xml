@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:contentDescription="Home"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/About"
+        android:title="About"
+        android:contentDescription="About"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/Contact"
+        android:title="Contact"
+        android:contentDescription="Contact"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/Faq"
+        android:title="Faq"
+        android:contentDescription="Faq"
+        app:showAsAction="never"
+        />
+</menu>
